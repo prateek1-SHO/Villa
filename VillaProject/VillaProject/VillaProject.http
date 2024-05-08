@@ -1,0 +1,6 @@
+@VillaProject_HostAddress = http://localhost:5096
+
+GET {{VillaProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
